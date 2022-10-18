@@ -123,7 +123,7 @@ Object destructor: terminates the connection previously instantiated to the
 database (if any).
 
 # TO DO
-
+ - add text about how to use ssl configuration
 Nothing planned.
 
 # BUGS
